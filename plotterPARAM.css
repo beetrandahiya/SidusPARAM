@@ -1,0 +1,9 @@
+body{
+    background-color: #fcfcfc;
+    display:grid;
+    grid-template-columns:30% 70%;
+    padding:0px;
+    margin:0px;
+    display:grid;
+    grid-template-rows:15% 85% ;
+}
